@@ -52,6 +52,7 @@ html {
 body {
   background: var(--bg-color);
   color: var(--text-color);
+  overflow-x: hidden;
 }
 section {
   min-height: 100vh;
